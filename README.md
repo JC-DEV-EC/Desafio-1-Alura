@@ -2,7 +2,7 @@
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20progreso-yellow.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
-![Logo]([https://user-images.githubusercontent.com/121910576/257302088-d2a9edb6-75e5-4118-aaba-6f53da7715dc.png](https://ci3.googleusercontent.com/meips/ADKq_NYye8g_ty_wD0XYL2GNMoDxBRpcB02j223NEnCIKMv91C9l_5f_N3N38F6JvoVwpkLhbY7i3sp5SaEjMVRInLoayPs_bzSGaWzDMCQtt6u6_sg-WvXgzvnf_2kBi05E55G_=s0-d-e1-ft#https://d335luupugsy2.cloudfront.net/cms/files/10224/1722974906/$2rp7nct8hor))
+![Logo](https://ci3.googleusercontent.com/meips/ADKq_NYye8g_ty_wD0XYL2GNMoDxBRpcB02j223NEnCIKMv91C9l_5f_N3N38F6JvoVwpkLhbY7i3sp5SaEjMVRInLoayPs_bzSGaWzDMCQtt6u6_sg-WvXgzvnf_2kBi05E55G_=s0-d-e1-ft#https://d335luupugsy2.cloudfront.net/cms/files/10224/1722974906/$2rp7nct8hor)
 
 **7 Days of Code: Día 1 - Comparación en JavaScript** es parte del desafío #7DaysOfCode de Alura Latam. 🎉
 
